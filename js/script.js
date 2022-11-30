@@ -1,3 +1,4 @@
+alert("зря ты сюда зашел");
 let btn1 = document.querySelector("#btn1");
 let opros = document.querySelector(".opros");
 
